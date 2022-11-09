@@ -68,4 +68,7 @@ Classify.description()
 Classify.findingperfectnumbers()
 Classify.printingpropers()
 
-
+Classify = ClassifyingNumbers(1000)
+Classify.description()        
+Classify.findingperfectnumbers()
+Classify.printingpropers()
